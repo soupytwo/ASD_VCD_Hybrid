@@ -8,3 +8,35 @@ What is shown in this image? Describe it in detail. ASSISTANT: The image display
 
 In addition
 ==================================================
+Image: SAMPLE3.jpg
+Description: USER:  
+What is shown in this image? Describe it in detail. ASSISTANT: The image features a large clock mounted on a building, possibly a church or a historical building. The clock is prominently displayed on the side of the building, making it a focal point. The clock is positioned near the top of the building, and its face is visible, allowing people to easily read the
+==================================================
+Image: SAMPLE4.jpg
+Description: USER:  
+What is shown in this image? Describe it in detail. ASSISTANT: The image features two white horses standing next to each other, with their heads close together. They are both wearing bridles, indicating that they are likely being ridden or used for transportation. The horses are positioned in front of a large building, possibly a castle or a historical site. The scene captures
+==================================================
+Image: SAMPLE5.jpg
+Description: USER:  
+What is shown in this image? Describe it in detail. ASSISTANT: The image features a dining table with a plate of various desserts, including cakes and pastries. There are several cakes of different sizes and shapes, as well as a cup placed on the table. The desserts are arranged in a visually appealing manner, creating an inviting and app
+==================================================
+Image: SAMPLE6.jpg
+Description: USER:  
+What is shown in this image? Describe it in detail. ASSISTANT: The image displays a white plate filled with a variety of food items. The plate contains rice, vegetables, and a meat dish, which appears to be a curry. There are also some pickles on the plate, adding to the diverse assortment of food. The plate is placed on a dining
+==================================================
+Image: SAMPLE7.jpg
+Description: USER:  
+What is shown in this image? Describe it in detail. ASSISTANT: The image shows a large room filled with a variety of teddy bears. The teddy bears are displayed in a store, with some of them placed on shelves and others scattered throughout the room. The teddy bears come in different sizes and colors, creating a visually appealing and inviting
+==================================================
+Image: SAMPLE8.jpg
+Description: USER:  
+What is shown in this image? Describe it in detail. ASSISTANT: The image shows a bathroom with a white toilet and a white bathtub. The bathroom is decorated with a red and white color scheme, giving it a unique and vibrant appearance. The toilet is situated next to the bathtub, and there is a sink in the room
+==================================================
+Image: SAMPLE9.jpg
+Description: USER:  
+What is shown in this image? Describe it in detail. ASSISTANT: The image features a wooden dining table with a bowl filled with various fruits. The bowl contains a mix of bananas, apples, and oranges. There are multiple bananas in the bowl, with some placed closer to the edge and others positioned more towards the center. The apples
+==================================================
+Image: SAMPLE10.jpg
+Description: USER:  
+What is shown in this image? Describe it in detail. ASSISTANT: The image features two elephants standing near a watering hole in a grassy field. They are positioned close to each other, possibly interacting or enjoying the water together. The scene is set in a natural environment with a sky visible in the background. The elephants appear to be drinking water
+==================================================
