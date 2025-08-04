@@ -1,0 +1,10 @@
+Image: SAMPLE1.jpg
+Description: USER:  
+What is shown in this image? Describe it in detail. ASSISTANT: The image shows a cozy living room with a television set placed on a wooden stand. The room is furnished with a couch and a chair, providing comfortable seating options for the occupants. There is also a potted plant in the room, adding a touch of greenery to the space. The television
+==================================================
+Image: SAMPLE2.jpg
+Description: USER:  
+What is shown in this image? Describe it in detail. ASSISTANT: The image displays a cozy living room with a fireplace as the focal point. The room features a couch and a chair, both placed in front of the fireplace. There is a coffee table in the room, and a clock is mounted on the wall above the fireplace. 
+
+In addition
+==================================================
